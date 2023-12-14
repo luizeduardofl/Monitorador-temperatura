@@ -98,8 +98,8 @@ buzzer.deinit()
 
 * Para testar os três casos do laço `while`, realizamos três ações:
 
-  * Colocamos o monitorador no ar-condicionado;
-  * Colocamos o monitorador na temperatura da sala;
+  * Colocamos o monitorador diretamente no ar-condicionado;
+  * Colocamos o monitorador à temperatura ambiente;
   * Sopramos ar quente da boca no monitorador.
    
 * Ao colocar o monitorador diretamente no ar-condicionado, ele rapidamente esfria e emite a cor azul.
